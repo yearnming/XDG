@@ -5,6 +5,8 @@ import (
 	"time"
 )
 
+//测试发布
+
 const (
 	// Time allowed to write a message to the peer.
 	writeWait = 10 * time.Second
